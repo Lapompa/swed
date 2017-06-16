@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dish: MyString
+  name: MyString
+  zip: MyString
+  street: MyString
+
+two:
+  dish: MyString
+  name: MyString
+  zip: MyString
+  street: MyString
